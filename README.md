@@ -50,4 +50,8 @@ El proyecto está organizado por capas:
   Interfaz gráfica para interacción con el usuario.
 
 ---
+<img width="587" height="392" alt="image" src="https://github.com/user-attachments/assets/ac9b23cf-9110-46bb-b941-c7329e1e3808" />
+<img width="583" height="390" alt="image" src="https://github.com/user-attachments/assets/dfc30396-4880-4505-9334-93e691e11d69" />
+
+
 
